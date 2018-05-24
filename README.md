@@ -1,0 +1,2 @@
+# skiddyTool
+Hey, Today I decided to make a video on how to make a screenshare tool cause some peoples are making money with a shitty sstool that just search for leaked strings (https://github.com/Erouax/Sections-of-Java-Code/tree/master/1.2.0/clients) in a .txt so if they can do it, you can do it    Softwares: Visual Studios 2017, VB.net theme archive   SRC : (NOTE : this is a very simple code you can add as many strings as you want, other checks like dwm,explorer etc.. )
